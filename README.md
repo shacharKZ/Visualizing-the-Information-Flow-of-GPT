@@ -7,6 +7,7 @@ Please try our demo: [![Colab ROME Demo](https://colab.research.google.com/asset
 
 By using this notebook you can create dynamic plots that reflect the forward passes of GPTs from a semantic perspective. These plots illustrate the information flow within the models and provide insights into the impact of each component on the semantic information flow.
 
+![Picture230904](https://github.com/shacharKZ/Visualizing-the-Information-Flow-of-GPT/assets/57663126/24c978ac-6efa-4f6c-b858-5a8da61a9aab)
 
 
 We also provide examples of the modeling plots in the folder `dynamic examples`. Those are HTML files, please download them and open them in your browser.
